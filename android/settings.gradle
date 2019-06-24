@@ -1,0 +1,3 @@
+rootProject.name = 'NativeUIDemo'
+
+include ':app'
