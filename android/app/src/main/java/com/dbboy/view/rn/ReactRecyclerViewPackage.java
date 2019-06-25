@@ -13,7 +13,7 @@ import java.util.List;
 /**
  * Created by DB_BOY on 2019/6/19.</br>
  */
-public class ReactExpertViewPackage implements ReactPackage {
+public class ReactRecyclerViewPackage implements ReactPackage {
     @Override
     public List<NativeModule> createNativeModules(ReactApplicationContext reactContext) {
         return Collections.emptyList();
